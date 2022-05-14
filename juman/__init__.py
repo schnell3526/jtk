@@ -1,1 +1,1 @@
-from tokenizer_juman import RobertaJumanTokenizer
+from .tokenizer_juman import RobertaJumanTokenizer
